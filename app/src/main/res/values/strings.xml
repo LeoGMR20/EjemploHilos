@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjemploHilos</string>
+    <string name="txt_hello_world">Hello world</string>
+    <string name="txt_start">Iniciar</string>
+</resources>
